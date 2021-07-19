@@ -1,3 +1,3 @@
 # Cadastro de Clientes 
 
-Api desenvolvida em Java utilizando Spring, BD H2 e Maven
+Api desenvolvida em Java utilizando Spring + BD H2
